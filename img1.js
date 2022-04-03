@@ -1,3 +1,4 @@
+<script type="text/javascript">
 function display_image(src, width, height, alt) {
     var a = document.createElement("img");
     a.src = src;
@@ -10,3 +11,4 @@ display_image('https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEickU3t
                  276, 
                  110, 
                  'JavaScriptImage');
+</script>
