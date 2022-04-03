@@ -1,4 +1,4 @@
-<script>
+<script type="text/javascript">
 function display_image(src, width, height, alt) {
     var a = document.createElement("img");
     a.src = src;
